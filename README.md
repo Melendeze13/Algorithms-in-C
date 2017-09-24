@@ -9,4 +9,4 @@ algorithms class.
 ### Goals
 
 * Implement search, sort, and special algorithms
-* Create a benchmark suite to comepare algorithm runtimes
+* Create a benchmark suite to compare algorithm runtimes
